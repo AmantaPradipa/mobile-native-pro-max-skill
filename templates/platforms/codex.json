@@ -1,0 +1,16 @@
+{
+  "platform": "codex",
+  "displayName": "Codex",
+  "installType": "full",
+  "folderStructure": {
+    "root": ".codex",
+    "skillPath": "skills/mobile-native-pro-max",
+    "filename": "SKILL.md"
+  },
+  "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+  "frontmatter": {
+    "name": "mobile-native-pro-max",
+    "description": "Deep learning intelligence for architectures, training stability, optimization, and deployment."
+  },
+  "skillOrWorkflow": "Skill"
+}

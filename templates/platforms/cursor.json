@@ -1,0 +1,16 @@
+{
+  "platform": "cursor",
+  "displayName": "Cursor",
+  "installType": "full",
+  "folderStructure": {
+    "root": ".cursor",
+    "skillPath": "skills/mobile-native-pro-max",
+    "filename": "SKILL.md"
+  },
+  "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+  "frontmatter": {
+    "name": "mobile-native-pro-max",
+    "description": "Deep learning intelligence with searchable rules for training, deployment, and stability."
+  },
+  "skillOrWorkflow": "Skill"
+}

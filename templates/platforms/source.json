@@ -1,0 +1,84 @@
+{
+  "platforms": [
+    {
+      "platform": "codex",
+      "displayName": "Codex",
+      "installType": "full",
+      "folderStructure": {
+        "root": ".codex",
+        "skillPath": "skills/mobile-native-pro-max",
+        "filename": "SKILL.md"
+      },
+      "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+      "frontmatter": {
+        "name": "mobile-native-pro-max",
+        "description": "Deep learning intelligence for architectures, training stability, optimization, and deployment."
+      },
+      "skillOrWorkflow": "Skill"
+    },
+    {
+      "platform": "claude",
+      "displayName": "Claude Code",
+      "installType": "full",
+      "folderStructure": {
+        "root": ".claude",
+        "skillPath": "skills/mobile-native-pro-max",
+        "filename": "SKILL.md"
+      },
+      "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+      "frontmatter": {
+        "name": "mobile-native-pro-max",
+        "description": "Deep learning intelligence. Use for model architecture, training stability, deployment, and hardware acceleration."
+      },
+      "skillOrWorkflow": "Skill"
+    },
+    {
+      "platform": "cursor",
+      "displayName": "Cursor",
+      "installType": "full",
+      "folderStructure": {
+        "root": ".cursor",
+        "skillPath": "skills/mobile-native-pro-max",
+        "filename": "SKILL.md"
+      },
+      "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+      "frontmatter": {
+        "name": "mobile-native-pro-max",
+        "description": "Deep learning intelligence with searchable rules for training, deployment, and stability."
+      },
+      "skillOrWorkflow": "Skill"
+    },
+    {
+      "platform": "windsurf",
+      "displayName": "Windsurf",
+      "installType": "full",
+      "folderStructure": {
+        "root": ".windsurf",
+        "skillPath": "skills/mobile-native-pro-max",
+        "filename": "SKILL.md"
+      },
+      "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+      "frontmatter": {
+        "name": "mobile-native-pro-max",
+        "description": "Deep learning architecture intelligence for production training and inference."
+      },
+      "skillOrWorkflow": "Skill"
+    },
+    {
+      "platform": "antigravity",
+      "displayName": "Antigravity / Generic Agent",
+      "installType": "full",
+      "folderStructure": {
+        "root": ".agent",
+        "skillPath": "skills/mobile-native-pro-max",
+        "filename": "SKILL.md"
+      },
+      "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+      "frontmatter": {
+        "name": "mobile-native-pro-max",
+        "description": "Deep learning intelligence for model design, training stability, and deployment."
+      },
+      "skillOrWorkflow": "Skill"
+    }
+  ]
+}

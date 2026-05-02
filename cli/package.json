@@ -1,0 +1,43 @@
+{
+  "name": "mobile-native-pro-max",
+  "version": "0.1.1",
+  "description": "AI-powered intelligence for native mobile development across Android (Kotlin/Compose), iOS (Swift/SwiftUI), and cross-platform (KMM/Flutter).",
+  "bin": {
+    "mobile-native-pro-max": "./bin/mobile-native-pro-max.js"
+  },
+  "files": [
+    "bin",
+    "assets",
+    "README.md"
+  ],
+  "scripts": {
+    "prepack": "node ./bin/prepare-assets.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmantaPradipa/mobile-native-pro-max-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmantaPradipa/mobile-native-pro-max-skill/issues"
+  },
+  "homepage": "https://github.com/AmantaPradipa/mobile-native-pro-max-skill#readme",
+  "keywords": [
+    "mobile",
+    "android",
+    "ios",
+    "kotlin",
+    "swift",
+    "compose",
+    "swiftui",
+    "flutter",
+    "kmm"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "type": "commonjs"
+}

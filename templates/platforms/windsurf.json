@@ -1,0 +1,16 @@
+{
+  "platform": "windsurf",
+  "displayName": "Windsurf",
+  "installType": "full",
+  "folderStructure": {
+    "root": ".windsurf",
+    "skillPath": "skills/mobile-native-pro-max",
+    "filename": "SKILL.md"
+  },
+  "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+  "frontmatter": {
+    "name": "mobile-native-pro-max",
+    "description": "Deep learning architecture intelligence for production training and inference."
+  },
+  "skillOrWorkflow": "Skill"
+}

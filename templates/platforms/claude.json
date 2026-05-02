@@ -1,0 +1,16 @@
+{
+  "platform": "claude",
+  "displayName": "Claude Code",
+  "installType": "full",
+  "folderStructure": {
+    "root": ".claude",
+    "skillPath": "skills/mobile-native-pro-max",
+    "filename": "SKILL.md"
+  },
+  "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+  "frontmatter": {
+    "name": "mobile-native-pro-max",
+    "description": "Deep learning intelligence. Use for model architecture, training stability, deployment, and hardware acceleration."
+  },
+  "skillOrWorkflow": "Skill"
+}

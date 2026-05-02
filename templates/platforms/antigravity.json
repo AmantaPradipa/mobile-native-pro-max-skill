@@ -1,0 +1,16 @@
+{
+  "platform": "antigravity",
+  "displayName": "Antigravity / Generic Agent",
+  "installType": "full",
+  "folderStructure": {
+    "root": ".agent",
+    "skillPath": "skills/mobile-native-pro-max",
+    "filename": "SKILL.md"
+  },
+  "scriptPath": "skills/mobile-native-pro-max/scripts/search.py",
+  "frontmatter": {
+    "name": "mobile-native-pro-max",
+    "description": "Deep learning intelligence for model design, training stability, and deployment."
+  },
+  "skillOrWorkflow": "Skill"
+}

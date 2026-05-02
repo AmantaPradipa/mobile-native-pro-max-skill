@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mobile-Native Pro Max"
+  short_description: "Deep learning architecture rules"
+  default_prompt: "Use $mobile-native-pro-max to design a production deep learning model and training pipeline."
+
+policy:
+  allow_implicit_invocation: true
