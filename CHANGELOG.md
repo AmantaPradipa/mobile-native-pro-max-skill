@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.1] - 2026-05-02
+## [0.1.2] - 2026-05-02
 
 ### Added
 - Initial release with 157+ mobile development rules across 10 domains.

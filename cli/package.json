@@ -1,6 +1,6 @@
 {
   "name": "mobile-native-pro-max",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "AI-powered intelligence for native mobile development across Android (Kotlin/Compose), iOS (Swift/SwiftUI), and cross-platform (KMM/Flutter).",
   "bin": {
     "mobile-native-pro-max": "./bin/mobile-native-pro-max.js"

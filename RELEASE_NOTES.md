@@ -1,4 +1,4 @@
-# Release Notes — v0.1.1
+# Release Notes — v0.1.2
 
 ## Mobile-Native Pro Max — Initial Release
 

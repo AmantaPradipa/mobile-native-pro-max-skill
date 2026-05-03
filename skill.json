@@ -2,7 +2,7 @@
   "name": "mobile-native-pro-max",
   "displayName": "Mobile-Native Pro Max",
   "description": "AI-powered intelligence for native mobile development across Android (Kotlin/Compose), iOS (Swift/SwiftUI), and cross-platform (KMM/Flutter). Covers architecture, navigation, state management, platform APIs, performance, testing, and deployment.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Agent-Skills",
   "license": "MIT",
   "keywords": [
